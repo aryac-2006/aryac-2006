@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Arya Choudhari 👋<br><br>💻 Aspiring AI & Data Science Engineer<br><br>Passionate about building intelligent solutions with Python and Machine Learning. I enjoy solving real-world problems, exploring data, and continuously learning new technologies.<br><br>🚀 Currently working on:<br>- Machine Learning Projects<br>- Data Analysis<br>- Streamlit Applications<br>- Python Development<br><br>🛠 Tech Stack<br>• Python<br>• Pandas<br>• NumPy<br>• Scikit-learn<br>• Streamlit<br>• Git & GitHub<br><br>"Learning, Building, and Growing every day."
+# Hi there, I'm Arya Choudhari 👋<br><br>💻 Aspiring AI & Data Science Engineer<br><br>Passionate about building intelligent solutions with Python and Machine Learning. I enjoy solving real-world problems, exploring data, and continuously learning new technologies.<br><br>🚀 Currently working on:<br>- Machine Learning Projects<br>- Data Analysis<br>- Streamlit Applications<br>- Python Development<br><br>"
 
 
 ## 🌐 Socials:
